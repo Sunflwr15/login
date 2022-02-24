@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.kiri{
+    background-color: white;
+    width: 40%;
+    height: 800px;
+    float: left;
+    padding: 5%;
+}
+
+.kotakluar {
+padding: 30px;
+width: 300px;
+height: 100px;
+margin: auto;
+}
+
+.kotak {
+    width: 90px;
+    height: 90px;
+    background-color: white;
+    float: left;
+    box-shadow: 0px 5px 15px 1px rgb(0 0 0 / 10%);
+    border-radius: 30px;
+    margin-left: 35px;
+
+}
+
+.f h1 {
+    margin-top: 30%;
+    text-align: center;
+    color: blue;
+}
+
+.g h1 {
+    margin-top: 30%;
+    text-align: center;
+    color: red;
+}
+
+label {
+    font-size: 20px;
+    margin-right: 350px;
+}
+input {
+    margin: 5px 0px 25px 0px;
+    width: 93%;
+    border-radius: 50px;
+    padding: 15px;
+}
+
+a{
+    margin-top: 20px;
+    color: #34a4ec;
+    text-decoration: none;
+    margin-right: 185px;
+}
+
+button{
+    width: 200px;
+    padding: 15px;
+    color: white;
+    background-color: #34a4ec;
+    border: none;
+    border-radius: 50px;
+    margin-top: 40px;
+}
+
+.kanan{
+    background-color: cornflowerblue ;
+    width: 40%;
+    height: 800px;
+    float: right;
+    background: url("../images/back.jpeg") no-repeat;
+    background-size: cover;
+    background-position: -200px;
+    opacity: .9;
+    color: rgb(255, 255, 255);
+    padding: 60px;
+}
+
+.kanan h1{
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+.kanan h2{
+    font-size: 30px;
+    font-weight: lighter;
+}
