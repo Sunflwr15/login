@@ -6,7 +6,7 @@
 .kiri{
     background-color: white;
     width: 40%;
-    height: 800px;
+    height: 400px;
     float: left;
     padding: 5%;
 }
@@ -74,7 +74,7 @@ button{
 .kanan{
     background-color: cornflowerblue ;
     width: 40%;
-    height: 800px;
+    height: 555px;
     float: right;
     background: url("../images/back.jpeg") no-repeat;
     background-size: cover;
